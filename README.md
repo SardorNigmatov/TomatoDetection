@@ -52,15 +52,15 @@ YOLOv11 is an advanced object detection model designed for speed and accuracy. I
 
 ## 📊 Results
 
-### Training Performance
+### Performance
 
-![Training Accuracy](![P_curve](https://github.com/user-attachments/assets/0401308a-432f-47e3-8278-5c98067f756f)
+(![F1_curve](https://github.com/user-attachments/assets/8124882c-c428-4498-ae9d-5bb77df15ae3))
 
+(![P_curve]((https://github.com/user-attachments/assets/a76a3715-916d-4342-8004-bfa66378b070))
 
-### Validation Performance
+(![PR_curve](https://github.com/user-attachments/assets/4e0506e2-3f69-4a4d-a1f0-6adc35c87c68))
 
-![Validation Accuracy](![F1_curve](https://github.com/user-attachments/assets/dac63c8f-9cfc-4412-bc78-f4608cc9ae03)
-
+(![results](https://github.com/user-attachments/assets/528fe25e-aa79-4938-aa50-1f5f929eafdf))
 
 ---
 
@@ -71,40 +71,20 @@ Below are some examples of the model's predictions on test images.
 ### Example 1
 | Original Image            | Predicted Output        |
 |---------------------------|-------------------------|
-| ![Original](path_to_original_image1.png) | ![Prediction](path_to_predicted_image1.png) |
+|(![test_img1](https://github.com/user-attachments/assets/ee868f02-1e76-48fd-9b78-57403b0fadbf)  |
+|(![test_img1](https://github.com/user-attachments/assets/5ac32383-c3cd-4928-b3e4-08854af33142)) |
 
 ### Example 2
 | Original Image            | Predicted Output        |
 |---------------------------|-------------------------|
-| ![Original](path_to_original_image2.png) | ![Prediction](path_to_predicted_image2.png) |
+|(![test_img2](https://github.com/user-attachments/assets/9c273d67-1f92-42ed-bd23-739df467b718)) |
+|(![test_img2](https://github.com/user-attachments/assets/0487079d-a4f7-4d43-a4ad-ca0ffc1ebc89)) |
 
 ### Example 3
 | Original Image            | Predicted Output        |
 |---------------------------|-------------------------|
-| ![Original](path_to_original_image3.png) | ![Prediction](path_to_predicted_image3.png) |
-
----
-
-## 🚀 Usage
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/your_username/TomatoDetection.git
-
-# Navigate to the project directory
-cd TomatoDetection
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
-### Running Inference
-
-```bash
-python detect.py --source /path_to_image_folder --weights yolov11_weights.pth
-```
+|(![test_img3](https://github.com/user-attachments/assets/e23f867c-2077-4a73-abcd-70fb24686ab4)) | 
+|(![test_img3](https://github.com/user-attachments/assets/fbfb40ea-630c-4fe8-a340-8e3e87941534)) |
 
 ---
 
@@ -114,6 +94,10 @@ python detect.py --source /path_to_image_folder --weights yolov11_weights.pth
 - Dataset contributors for providing labeled tomato images.
 
 ---
+
+## Dataset
+(![Dataset link](!https://www.kaggle.com/datasets/sardornigmatov/tomatodetectiondataset))
+
 
 **Author**: [Nigmatov Sardor]
 
