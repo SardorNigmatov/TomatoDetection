@@ -86,4 +86,4 @@ Below are some examples of the model's predictions on test images.
 ---
 
 ## Dataset
-(!https://www.kaggle.com/datasets/sardornigmatov/tomatodetectiondataset))
+https://www.kaggle.com/datasets/sardornigmatov/tomatodetectiondataset
