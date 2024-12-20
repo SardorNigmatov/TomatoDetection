@@ -47,13 +47,13 @@ YOLOv11 is an advanced object detection model designed for speed and accuracy. I
 
 ### Performance
 
-(![F1_curve](https://github.com/user-attachments/assets/8124882c-c428-4498-ae9d-5bb77df15ae3))
+![F1_curve](https://github.com/user-attachments/assets/8124882c-c428-4498-ae9d-5bb77df15ae3)
 
-(![P_curve]((https://github.com/user-attachments/assets/a76a3715-916d-4342-8004-bfa66378b070))
+![P_curve](https://github.com/user-attachments/assets/a76a3715-916d-4342-8004-bfa66378b070)
 
-(![PR_curve](https://github.com/user-attachments/assets/4e0506e2-3f69-4a4d-a1f0-6adc35c87c68))
+![PR_curve](https://github.com/user-attachments/assets/4e0506e2-3f69-4a4d-a1f0-6adc35c87c68)
 
-(![results](https://github.com/user-attachments/assets/528fe25e-aa79-4938-aa50-1f5f929eafdf))
+![results](https://github.com/user-attachments/assets/528fe25e-aa79-4938-aa50-1f5f929eafdf)
 
 ---
 
