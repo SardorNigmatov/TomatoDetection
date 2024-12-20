@@ -41,13 +41,6 @@ YOLOv11 is an advanced object detection model designed for speed and accuracy. I
 - **Learning Rate**: 0.001 with cosine annealing scheduler.
 - **Epochs**: 100
 - **Batch Size**: 8
-
-| Metric           | Value       |
-|------------------|-------------|
-| Training Accuracy| 96.5%       |
-| Validation Accuracy| 94.8%     |
-| mAP@50           | 92.7%       |
-
 ---
 
 ## 📊 Results
@@ -71,20 +64,17 @@ Below are some examples of the model's predictions on test images.
 ### Example 1
 | Original Image            | Predicted Output        |
 |---------------------------|-------------------------|
-|(![test_img1](https://github.com/user-attachments/assets/ee868f02-1e76-48fd-9b78-57403b0fadbf)  |
-|(![test_img1](https://github.com/user-attachments/assets/5ac32383-c3cd-4928-b3e4-08854af33142)) |
+|(![test_img1](https://github.com/user-attachments/assets/ee868f02-1e76-48fd-9b78-57403b0fadbf) |(![test_img1](https://github.com/user-attachments/assets/5ac32383-c3cd-4928-b3e4-08854af33142)) |
 
 ### Example 2
 | Original Image            | Predicted Output        |
 |---------------------------|-------------------------|
-|(![test_img2](https://github.com/user-attachments/assets/9c273d67-1f92-42ed-bd23-739df467b718)) |
-|(![test_img2](https://github.com/user-attachments/assets/0487079d-a4f7-4d43-a4ad-ca0ffc1ebc89)) |
+|(![test_img2](https://github.com/user-attachments/assets/9c273d67-1f92-42ed-bd23-739df467b718)) | (![test_img2](https://github.com/user-attachments/assets/0487079d-a4f7-4d43-a4ad-ca0ffc1ebc89)) |
 
 ### Example 3
 | Original Image            | Predicted Output        |
 |---------------------------|-------------------------|
-|(![test_img3](https://github.com/user-attachments/assets/e23f867c-2077-4a73-abcd-70fb24686ab4)) | 
-|(![test_img3](https://github.com/user-attachments/assets/fbfb40ea-630c-4fe8-a340-8e3e87941534)) |
+|(![test_img3](https://github.com/user-attachments/assets/e23f867c-2077-4a73-abcd-70fb24686ab4)) | (![test_img3](https://github.com/user-attachments/assets/fbfb40ea-630c-4fe8-a340-8e3e87941534)) |
 
 ---
 
@@ -96,9 +86,4 @@ Below are some examples of the model's predictions on test images.
 ---
 
 ## Dataset
-(![Dataset link](!https://www.kaggle.com/datasets/sardornigmatov/tomatodetectiondataset))
-
-
-**Author**: [Nigmatov Sardor]
-
-For more details, check out the full project repository on [GitHub](https://github.com/your_username/TomatoDetection).
+(!https://www.kaggle.com/datasets/sardornigmatov/tomatodetectiondataset))
